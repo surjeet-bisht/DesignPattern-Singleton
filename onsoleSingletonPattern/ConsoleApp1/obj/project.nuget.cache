@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J+Y5oxKgt4zQp3bqPiA2LRZvr/oToV6glapFBgvAOk5vt3E9LmX4pCQfEhSxjuoZx/LyigJHnNs6dDCaN3ANcA==",
+  "dgSpecHash": "mBiHoeDQOEvddvWFEhzJHB7ul41DFVg+pcXu4XRUz8AvmyoEDild3LYVMAkDcjQaEwx1E7JpIto2KY0OI6X4Fw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bisht\\Documents\\Projects\\Research\\DesignPattern-Singleton\\DesignPattern-Singleton\\onsoleSingletonPattern\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\Users\\bisht\\Documents\\Projects\\Research\\DesignPattern-Singleton\\DesignPattern-Singleton\\onsoleSingletonPattern\\ConsoleApp1\\SingletonDesign.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

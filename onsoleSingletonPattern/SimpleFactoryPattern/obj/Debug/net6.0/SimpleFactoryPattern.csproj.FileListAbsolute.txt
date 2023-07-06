@@ -1,0 +1,15 @@
+C:\Users\bisht\Documents\Projects\Research\DesignPattern-Singleton\DesignPattern-Singleton\onsoleSingletonPattern\SimpleFactoryPattern\bin\Debug\net6.0\SimpleFactoryPattern.exe
+C:\Users\bisht\Documents\Projects\Research\DesignPattern-Singleton\DesignPattern-Singleton\onsoleSingletonPattern\SimpleFactoryPattern\bin\Debug\net6.0\SimpleFactoryPattern.deps.json
+C:\Users\bisht\Documents\Projects\Research\DesignPattern-Singleton\DesignPattern-Singleton\onsoleSingletonPattern\SimpleFactoryPattern\bin\Debug\net6.0\SimpleFactoryPattern.runtimeconfig.json
+C:\Users\bisht\Documents\Projects\Research\DesignPattern-Singleton\DesignPattern-Singleton\onsoleSingletonPattern\SimpleFactoryPattern\bin\Debug\net6.0\SimpleFactoryPattern.dll
+C:\Users\bisht\Documents\Projects\Research\DesignPattern-Singleton\DesignPattern-Singleton\onsoleSingletonPattern\SimpleFactoryPattern\bin\Debug\net6.0\SimpleFactoryPattern.pdb
+C:\Users\bisht\Documents\Projects\Research\DesignPattern-Singleton\DesignPattern-Singleton\onsoleSingletonPattern\SimpleFactoryPattern\obj\Debug\net6.0\SimpleFactoryPattern.csproj.AssemblyReference.cache
+C:\Users\bisht\Documents\Projects\Research\DesignPattern-Singleton\DesignPattern-Singleton\onsoleSingletonPattern\SimpleFactoryPattern\obj\Debug\net6.0\SimpleFactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bisht\Documents\Projects\Research\DesignPattern-Singleton\DesignPattern-Singleton\onsoleSingletonPattern\SimpleFactoryPattern\obj\Debug\net6.0\SimpleFactoryPattern.AssemblyInfoInputs.cache
+C:\Users\bisht\Documents\Projects\Research\DesignPattern-Singleton\DesignPattern-Singleton\onsoleSingletonPattern\SimpleFactoryPattern\obj\Debug\net6.0\SimpleFactoryPattern.AssemblyInfo.cs
+C:\Users\bisht\Documents\Projects\Research\DesignPattern-Singleton\DesignPattern-Singleton\onsoleSingletonPattern\SimpleFactoryPattern\obj\Debug\net6.0\SimpleFactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\bisht\Documents\Projects\Research\DesignPattern-Singleton\DesignPattern-Singleton\onsoleSingletonPattern\SimpleFactoryPattern\obj\Debug\net6.0\SimpleFactoryPattern.dll
+C:\Users\bisht\Documents\Projects\Research\DesignPattern-Singleton\DesignPattern-Singleton\onsoleSingletonPattern\SimpleFactoryPattern\obj\Debug\net6.0\refint\SimpleFactoryPattern.dll
+C:\Users\bisht\Documents\Projects\Research\DesignPattern-Singleton\DesignPattern-Singleton\onsoleSingletonPattern\SimpleFactoryPattern\obj\Debug\net6.0\SimpleFactoryPattern.pdb
+C:\Users\bisht\Documents\Projects\Research\DesignPattern-Singleton\DesignPattern-Singleton\onsoleSingletonPattern\SimpleFactoryPattern\obj\Debug\net6.0\SimpleFactoryPattern.genruntimeconfig.cache
+C:\Users\bisht\Documents\Projects\Research\DesignPattern-Singleton\DesignPattern-Singleton\onsoleSingletonPattern\SimpleFactoryPattern\obj\Debug\net6.0\ref\SimpleFactoryPattern.dll
